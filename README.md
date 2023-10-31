@@ -4,6 +4,7 @@
 This is a Automation Project using Python script that automates the Cookie Clicker game using the Selenium web automation library. 
 The bot clicks the cookie, manages upgrades, and tracks the cookies per second (CPS) count.
 
+
 ![Cookie_Clicker_Bot](https://github.com/NoorMahammad-S/Cookie_Clicker_Bot_using_Selenium/blob/master/images/Cookie%20Clicker.JPG) 
 
 ## Prerequisites
