@@ -1,4 +1,4 @@
-# ```                 Automation Project                 ```
+# ```               Automation Project               ```
 
 # Cookie_Clicker_Bot_using_Selenium 
 This is a Automation Project using Python script that automates the Cookie Clicker game using the Selenium web automation library. 
