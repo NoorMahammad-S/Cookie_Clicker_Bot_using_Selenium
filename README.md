@@ -63,8 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to the Cookie Clicker game by Orteil (http://orteil.dashnet.org/experiments/cookie/).
-
-## Author
-
-Noor Mahammad S
-
